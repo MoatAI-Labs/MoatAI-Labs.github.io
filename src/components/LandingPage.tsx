@@ -4,7 +4,7 @@ import { Card } from "@/components/ui/card";
 
 const LandingPage = () => {
   const handleWaitlistClick = () => {
-    window.open('https://forms.google.com/forms/d/e/1FAIpQLSc1example/viewform', '_blank');
+    window.open('https://forms.gle/2ZpEbRMnJPoEF41w9', '_blank');
   };
 
   return (
@@ -187,7 +187,7 @@ const LandingPage = () => {
             </span>
           </div>
           <p className="text-muted-foreground text-center">
-            © 2024 Moat AI. Securing the future of development.
+            © 2025 Moat AI. Securing the future of development.
           </p>
           <div className="flex space-x-6 text-muted-foreground">
             <a href="#" className="hover:text-primary transition-colors">Privacy</a>
